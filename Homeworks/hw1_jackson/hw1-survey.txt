@@ -1,0 +1,39 @@
+UCF Physics PHZ 3150: Introduction to Numerical Computing
+
+           Name: Jackson Huff
+          Email: ja741877@ucf.edu
+          Phone: 321 243 8579
+          Major: Optics and Photonics Engineering
+           Year: 2026
+             ID: 5315241
+
+How did you hear about this course? By looking at the list of OSE "core" prerequisite courses
+
+Do you have a laptop you can bring to class, install software on, etc.? Yes
+
+What operating system and version does it run? Linux (pop!_os)
+
+How much free disk space does it have? 220GB
+
+What operating systems are you comfortable working in? Linux, Windows, macOS 
+
+What computer classes have you taken, including high school,
+extracurricular, etc.? None
+
+Have you ever programmed a computer? Yes
+
+   In what language(s)? C++, Python, RISC-V assembly
+
+   Summarize your experience: I first got started with C++ in 2012 by reading this giant "C++11 Primer" textbook cover to cover, and I have a C++ project on GitHub with 4K stars!
+
+Have you taken statistics or probability? Yes (AP Statistics, STA 3032)
+
+Why are you taking this course? I need it to complete the OSE prerequisite requirements
+
+Are there particular topics you hope to learn? I want to try more NumPy and see what amazing things it can do for data inference                                   
+
+If you have worked with scientific data or modeling before, briefly
+describe your experience: I did a little NumPy and SciPy before for a physics class
+
+Have you ever been involved with a science club or similar?  If so,
+describe: I haven't been part of any science clubs YET

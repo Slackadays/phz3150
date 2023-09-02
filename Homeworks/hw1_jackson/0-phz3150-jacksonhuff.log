@@ -1,0 +1,58 @@
+Jackson Huff
+Log for PHZ 3150, Fall 2023
+*****IN: Sun Aug 27 06:22:00 PM EDT 2023
+Opened nano, started this log, saved as:
+/home/jackson/Downloads/0-phz3150-jacksonhuff.log
+UCF Physics PHZ 3150: Introduction to Numerical Computing
+
+           Name: Jackson Huff
+          Email: ja741877@ucf.edu
+          Phone: 321 243 8579
+          Major: Optics and Photonics Engineering
+           Year: 2026
+             ID: 5315241
+
+How did you hear about this course? By looking at the list of OSE "core" prerequisite courses
+
+Do you have a laptop you can bring to class, install software on, etc.? Yes
+
+What operating system and version does it run? Linux (pop!_os)
+
+How much free disk space does it have? 220GB
+
+What operating systems are you comfortable working in? Linux, Windows, macOS 
+
+What computer classes have you taken, including high school,
+extracurricular, etc.? None
+
+Have you ever programmed a computer? Yes
+
+   In what language(s)? C++, Python, RISC-V assembly
+
+   Summarize your experience: I first got started with C++ in 2012 by reading this giant "C++11 Primer" textbook cover to cover, and I have a C++ project on GitHub with 4K stars!
+
+Have you taken statistics or probability? Yes (AP Statistics, STA 3032)
+
+Why are you taking this course? I need it to complete the OSE prerequisite requirements
+
+Are there particular topics you hope to learn? I want to try more NumPy and see what amazing things it can do for data inference                                   
+
+If you have worked with scientific data or modeling before, briefly
+describe your experience: I did a little NumPy and SciPy before for a physics class
+
+Have you ever been involved with a science club or similar?  If so,
+describe: I haven't been part of any science clubs YET
+*****OUT: Sun Aug 27 06:54:57 PM EDT 2023
+Closed nano and saved log again
+*****IN: Sat Sep  2 01:55:55 PM EDT 2023
+Opened log with gedit, already have Anaconda/Jupyter installed from a while ago, took screenshot of Jupyer using the Print Screen key
+My Python version is 3.11.4
+I don't have GH Desktop (not available for Linux) so I have VS Code instead which does the same thing but with more features.
+
+English sentence that has correct syntax but uses incorrect characters: I thnk jewdö is thw bes sport.
+
+English sentence with incorrect syntax but correct characters: The judo I think best sport is.
+
+What main “feature” of natural languages prevents their use (so far) as programming languages, and why? Natural languages let you comprehend sentences even if they're malformed, which lets us make lots of unique expressions by "breaking the rules" in a comprehensible way. Unfortunately, computers don't have such leeway with comprehension, and so we can't use natural languages for programming (yet) because there's no way to program in every possible misuse of a natural language.
+
+
