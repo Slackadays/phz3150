@@ -76,3 +76,16 @@ I saved my HW4 notebook in VS Code, entered a nice message into the Commit messa
 
 *****OUT: Sat Sep  2 03:49:52 PM EDT 2023
 I'm closing gedit, copying this log over again, and making a zip of everything using my file manager.
+*****IN: Sat Sep  2 04:04:30 PM EDT 2023
+I'm opening gedit again to work on HW5. 
+
+Start:
+
+Problem 2 "What does it need to include?" This function needs to include the cases in case the part inside the square root gives a result that's negative, 0, or positive because we could have 0, 1, or 2 solutions respectively.
+
+Problem 3: I checked that these answers are correct using my calculator.
+
+note: The instructions are ambiguous as to whether I should put these answers in the log or in the notebook.
+
+*****OUT: Sat Sep  2 04:34:56 PM EDT 2023
+I'm closing this log in gedit, committing the notebook to GH and pushing it by using VS Code, and making the zip file through my file manager.
