@@ -91,9 +91,3 @@ note: The instructions are ambiguous as to whether I should put these answers in
 I'm closing this log in gedit, committing the notebook to GH and pushing it by using VS Code, and making the zip file through my file manager.
 *****IN: Sat Sep  2 04:50:02 PM EDT 2023
 I'm opening this log in gedit again to work on HW6 and fix HW5. I'm submitting this log while it's IN because I'm working on HW6 at the same time.
-
-Start:
-
-Problem 1: I couldn't save the plot as a PDF because that function wasn't available, so I saved it as a PNG instead.
-
-Problem 2: Changing the 28th element of q_list to 42.0 works because lists in Python are just collections of regular variables that we can modify whenever we want to whatever. And, changing number 28 works specifically because we are singling it out from the others. Changing the 21st element of q_tuple doesn't work because the tuple type in Python holds constant variables, which means you can't change any of them after constructing the tuple.
