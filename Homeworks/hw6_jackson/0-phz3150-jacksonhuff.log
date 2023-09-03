@@ -99,11 +99,3 @@ Problem 1: I couldn't save the plot as a PDF because that function wasn't availa
 Problem 2: Changing the 28th element of q_list to 42.0 works because lists in Python are just collections of regular variables that we can modify whenever we want to whatever. And, changing number 28 works specifically because we are singling it out from the others. Changing the 21st element of q_tuple doesn't work because the tuple type in Python holds constant variables, which means you can't change any of them after constructing the tuple.
 *****OUT: Sat Sep  2 05:41:09 PM EDT 2023
 I'm closing this file again and committing everything to GH in VS Code. I'm also zipping everything up using my file manager.
-*****IN: Sun Sep  3 10:35:10 AM EDT 2023
-I'm opening this log again so I can work on HW7.
-
-Start:
-
-Reached the end after lots of interruptions! All my comments are in Jupyter since I don't know which option is preferred, so it's simpler to keep everything there.
-*****OUT: Sun Sep  3 01:03:16 PM EDT 2023
-Closing this file in gedit and committing everything to GH in VS Code and zipping everything up using the file manager
