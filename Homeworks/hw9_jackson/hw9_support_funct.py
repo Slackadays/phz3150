@@ -108,12 +108,12 @@ def my_circuit(circuit_type: str, resistors: int, resistances: list, v_or_a: flo
 def piston(V: list, P0: float, V0: float, T0: float, gamma: float) -> list:
     """Returns a (N, 3) list containing (P, V, T) values calculated from the inputted values of V, P0, V0, T0, and gamma, where N equals the length of the inputted list V."""
 
-    P = []
-    T = []
+    PVT = []
     for v in V:
         # use the adiabatic equation to calculate P
-        P.append(P0 * (V0 / v) ** gamma)
+        P = (P0 * (V0 / v) ** gamma)
         # use the ideal gas law to calculate T
-        T.append(T0 * (V0 / v) ** (gamma - 1))
+        T = (T0 * (V0 / v) ** (gamma - 1))
+        PVT.append([P, v, T])
 
-    return [P, V, T]
+    return PVT
